@@ -1,1 +1,1 @@
-# rectangle-C23
+# Box Class
